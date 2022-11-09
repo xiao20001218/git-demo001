@@ -4,7 +4,8 @@ public class HelloTest {
 
     public static void main(String[] args) {
         System.out.println("hello world");
-        System.out.println("hello welcome to master Git");
+        System.out.println("hello welcome to v1.0 Git");
+        System.out.println("How are you");
         System.out.println("I'm fine");
     }
 }
