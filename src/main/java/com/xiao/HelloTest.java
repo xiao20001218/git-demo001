@@ -8,4 +8,8 @@ public class HelloTest {
         System.out.println("How are you");
         System.out.println("I'm fine");
     }
+
+    public int sum(int a, int b) {
+        return a + b;
+    }
 }
